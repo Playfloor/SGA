@@ -1,0 +1,2 @@
+# SGA
+Standard Galactic Alphabet
